@@ -1,0 +1,16 @@
+E:\Programs\Bingo\Bingo\bin\Debug\Bingo.exe.config
+E:\Programs\Bingo\Bingo\bin\Debug\Bingo.exe
+E:\Programs\Bingo\Bingo\bin\Debug\Bingo.pdb
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo.csproj.SuggestedBindingRedirects.cache
+E:\Programs\Bingo\Bingo\obj\Debug\MainWindow.g.cs
+E:\Programs\Bingo\Bingo\obj\Debug\App.g.cs
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo_MarkupCompile.cache
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo_MarkupCompile.lref
+E:\Programs\Bingo\Bingo\obj\Debug\MainWindow.baml
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo.g.resources
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo.exe
+E:\Programs\Bingo\Bingo\obj\Debug\Bingo.pdb
